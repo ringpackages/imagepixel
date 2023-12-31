@@ -28,6 +28,11 @@ aPackageInfo = [
 			:name = "ringfastpro",
 			:version = "1.0",
 			:providerusername = ""
+		],
+		[
+			:name = "ringstbimage",
+			:version = "1.0",
+			:providerusername = ""
 		]
 	],
 	:files = 	[
